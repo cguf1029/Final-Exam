@@ -1,2 +1,2 @@
 you win!
-score:3200
+score:3150
